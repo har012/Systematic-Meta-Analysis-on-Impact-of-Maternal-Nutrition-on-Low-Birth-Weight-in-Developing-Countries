@@ -1,4 +1,4 @@
-# Meta-Analysis-on-Impact-of-Maternal-Nutrition-on-Low-Birth-Weight-in-Developing-Countries
+# Systematic-Meta-Analysis-on-Impact-of-Maternal-Nutrition-on-Low-Birth-Weight-in-Developing-Countries
 
 This repository contains the materials and findings from a comprehensive meta-analysis conducted on the effectiveness of maternal nutrition interventions in reducing the incidence of low birth weight (LBW) in developing countries. The meta-analysis focused on interventions such as iron and folic acid (IFA) supplementation, maternal hemoglobin (Hb) levels, and dietary diversity scores (DDS).
 
